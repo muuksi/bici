@@ -1,0 +1,10 @@
+Package: bici
+Title: A package with cyclelove
+Version: 0.0.0.1001
+Authors@R: person("Maximilian", "Hinse", email = "bici@hinse.eu", role = c("aut", "cre"))
+Description: This package is for personal useful functions and graphics.
+Depends:
+    R (>= 3.2.3)
+License: To be decided
+LazyData: true
+RoxygenNote: 5.0.1.9000
